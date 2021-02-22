@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609868859 source:c:\users\axcly\onedrive\masaüstü\kodlarým\baglilisteylekelimesayma_prolab1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1609868911 source:c:\users\axcly\onedrive\masaüstü\proje 3\baglilisteylekelimesayma_prolab1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
